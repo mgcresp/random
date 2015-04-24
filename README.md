@@ -1,0 +1,1 @@
+Hemos clonado el repositorio del profesor a nuestro pc y lo hemos subido a un nuevo repositorio creado por nosotros.Desde el otro usuario hemos hecho un fork y hemos añadido los dos archivos de manera que solo queda hacer el pull-request.
